@@ -1,2 +1,5 @@
-# MutantshibaG
-Mutant Shiba game made by newbornsatu99#4695 for fun
+##MSC!
+
+#Created by newbornsatu99#4695
+
+MSC1
